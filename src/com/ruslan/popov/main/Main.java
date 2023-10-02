@@ -1,10 +1,6 @@
-package com.thebyteguru.main;
+package com.ruslan.popov.main;
 
-import com.thebyteguru.display.Display;
-import com.thebyteguru.game.Game;
-
-import javax.swing.*;
-import java.awt.event.ActionEvent;
+import com.ruslan.popov.game.Game;
 
 
 public class Main {

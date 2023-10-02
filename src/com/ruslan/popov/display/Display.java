@@ -1,4 +1,6 @@
-package com.thebyteguru.display;
+package com.ruslan.popov.display;
+
+import com.ruslan.popov.IO.Input;
 
 import javax.swing.*;
 import java.awt.*;
@@ -74,6 +76,10 @@ public abstract class Display {
 
         window.setTitle(title);
 
+    }
+
+    public static void addInputListener(Input inputListener) {
+        window.add(inputListener);
     }
 }
 

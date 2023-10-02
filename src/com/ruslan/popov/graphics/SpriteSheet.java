@@ -1,4 +1,4 @@
-package com.ruslan.popov.game;
+package com.ruslan.popov.graphics;
 
 import java.awt.image.BufferedImage;
 

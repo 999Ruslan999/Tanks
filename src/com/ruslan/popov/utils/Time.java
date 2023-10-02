@@ -1,4 +1,4 @@
-package com.thebyteguru.utils;
+package com.ruslan.popov.utils;
 
 public class Time {
 
